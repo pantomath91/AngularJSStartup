@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Super Tires",
+      "description": "These tires are the very best",
+      "inStock": 5,
+      "price": 4.99,
+      "featured": false,
+      "quantity": 0,
+      "image": "/images/tire.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Reinforced Shocks",
+      "description": "Shocks made from krptonite",
+      "inStock": 4,
+      "price": 9.99,
+      "featured": true,
+      "image": "/images/shocks.jpg"
+    }
+  ]
+}
